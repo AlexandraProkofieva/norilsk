@@ -60,18 +60,20 @@ html {
   .day {
     background-color: #faede9;
     padding: 20px;
+    border: #c54b4b 3px solid;
+    border-radius: 10px;
   }
 
   
   .day h2 {
     margin-top: 0;
-    font-size: 35px;
+    font-size: 45px;
     color:#bc4f4f;
   }
 
  p { 
     color: #f58181;
-    font-size: 30px;
+    font-size: 35px;
   }
   
   
